@@ -1,0 +1,3 @@
+<jboss-web>
+  <context-root>restservicewom-inmem</context-root>
+</jboss-web>
