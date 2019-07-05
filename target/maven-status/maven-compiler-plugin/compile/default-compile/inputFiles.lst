@@ -1,0 +1,15 @@
+/home/lvergara/Documents/WOM/RestServiceWom-InMem/src/main/java/domain/model/repository/OrderRepository.java
+/home/lvergara/Documents/WOM/RestServiceWom-InMem/src/main/java/domain/model/entities/DefaultEntity.java
+/home/lvergara/Documents/WOM/RestServiceWom-InMem/src/main/java/domain/model/service/ReadOnlyBaseService.java
+/home/lvergara/Documents/WOM/RestServiceWom-InMem/src/main/java/domain/model/service/OrderServiceImpl.java
+/home/lvergara/Documents/WOM/RestServiceWom-InMem/src/main/java/domain/model/repository/ReadOnlyRepository.java
+/home/lvergara/Documents/WOM/RestServiceWom-InMem/src/main/java/wom/neg/JAXRSConfiguration.java
+/home/lvergara/Documents/WOM/RestServiceWom-InMem/src/main/java/domain/model/entities/Order.java
+/home/lvergara/Documents/WOM/RestServiceWom-InMem/src/main/java/domain/model/service/OrderService.java
+/home/lvergara/Documents/WOM/RestServiceWom-InMem/src/main/java/domain/model/repository/InMemOrderRepository.java
+/home/lvergara/Documents/WOM/RestServiceWom-InMem/src/main/java/wom/neg/events/entity/CoffeeType.java
+/home/lvergara/Documents/WOM/RestServiceWom-InMem/src/main/java/domain/model/service/BaseService.java
+/home/lvergara/Documents/WOM/RestServiceWom-InMem/src/main/java/wom/neg/LoggerProducer.java
+/home/lvergara/Documents/WOM/RestServiceWom-InMem/src/main/java/domain/model/entities/BaseEntity.java
+/home/lvergara/Documents/WOM/RestServiceWom-InMem/src/main/java/domain/model/repository/Repository.java
+/home/lvergara/Documents/WOM/RestServiceWom-InMem/src/main/java/wom/neg/orders/boundary/OrdersResource.java
