@@ -11,9 +11,9 @@ import javax.ws.rs.core.Context;
 import javax.ws.rs.core.HttpHeaders;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
+import javax.ws.rs.core.Response.Status;
 import javax.ws.rs.core.UriInfo;
 
-import com.sun.jersey.api.NotFoundException;
 
 import domain.model.entities.Order;
 import domain.model.service.OrderServiceImpl;
@@ -64,7 +64,7 @@ public class OrdersResource {
 		}
 
         if (order == null)
-            throw new NotFoundException();
+        	Response.status(Status.NOT_FOUND);
 
         return Response.ok(order).build();
 
